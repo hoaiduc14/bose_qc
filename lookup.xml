@@ -23,7 +23,7 @@
 		<PRODUCT PID="0x4024" URL="https://downloads.bose.com/ced/goodyear/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x402C" URL="https://downloads.bose.com/ced/celine/index.xml" />
 		<PRODUCT PID="0x402D" URL="https://downloads.bose.com/ced/revel/index.xml" DEVICE_CLASS="BMAP" />
-		<PRODUCT PID="0x402F" URL="https://downloads.bose.com/ced/lando/index.xml" DEVICE_CLASS="BMAP" />
+		<PRODUCT PID="0x402F" URL="https://raw.githubusercontent.com/hoaiduc14/bose_qc/main/ced/bose_music_china/lando/index.xml" DEVICE_CLASS="BMAP" />
 		<PRODUCT PID="0x4035" URL="https://downloads.bose.com/ced/m3/index.xml" />
 		<PRODUCT PID="0x4037" URL="https://downloads.bose.com/stetson/indy1/index.xml"/>
 		<PRODUCT PID="0x4039" URL="https://downloads.bose.com/ced/duran/index.xml" DEVICE_CLASS="BMAP" />
