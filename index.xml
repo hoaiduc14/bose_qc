@@ -1,7 +1,7 @@
 <INDEX REVISION="01.00.00">
 <DEVICE ID="0x402F" PRODUCTNAME="Quietcomfort Earbuds" USE_CLOUD="0">
 <HARDWARE REVISION="01.00.00">
-<RELEASE HTTPHOST="www.bose.cn" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.0.7-fb87694" URLPATH="/ced/bose_music_china/lando/">
+<RELEASE HTTPHOST="raw.githubusercontent.com" LANGUAGES="en-us,es-mx,de,it,fr,zh-cn,nl,ja,pt-br,ru,pl" REVISION="2.0.7-fb87694" URLPATH="/bose_qc/main/">
 <IMAGE CRC="0xFCFF86A2" FILENAME="lando_2x1_rom_spin_encrypted_prod_2.0.7-fb87694.bin" LENGTH="6534306" NOFORCE="1" REVISION="2.0.7-fb87694" SUBID="0"/>
 </RELEASE>
 </HARDWARE>
